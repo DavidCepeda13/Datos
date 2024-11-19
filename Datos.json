@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan Pérez",
+    "edad": 35,
+    "genero": "Masculino",
+    "telefono": "+34 123 456 789",
+    "email": "juan.perez@example.com",
+    "historial_medico": {
+      "alergias": ["Polen", "Penicilina"],
+      "enfermedades_cronicas": ["Diabetes tipo 2"],
+      "medicamentos_actuales": ["Metformina"]
+    }
+  },
+  {
+    "id": 2,
+    "nombre": "María López",
+    "edad": 29,
+    "genero": "Femenino",
+    "telefono": "+34 987 654 321",
+    "email": "maria.lopez@example.com",
+    "historial_medico": {
+      "alergias": ["Ninguna"],
+      "enfermedades_cronicas": [],
+      "medicamentos_actuales": []
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "Carlos García",
+    "edad": 42,
+    "genero": "Masculino",
+    "telefono": "+34 567 890 123",
+    "email": "carlos.garcia@example.com",
+    "historial_medico": {
+      "alergias": ["Ácaros"],
+      "enfermedades_cronicas": ["Hipertensión"],
+      "medicamentos_actuales": ["Losartán"]
+    }
+  },
+  {
+    "id": 4,
+    "nombre": "Ana Fernández",
+    "edad": 50,
+    "genero": "Femenino",
+    "telefono": "+34 456 789 012",
+    "email": "ana.fernandez@example.com",
+    "historial_medico": {
+      "alergias": ["Frutos secos"],
+      "enfermedades_cronicas": ["Hipotiroidismo"],
+      "medicamentos_actuales": ["Levotiroxina"]
+    }
+  },
+  {
+    "id": 5,
+    "nombre": "Pedro Sánchez",
+    "edad": 60,
+    "genero": "Masculino",
+    "telefono": "+34 654 321 987",
+    "email": "pedro.sanchez@example.com",
+    "historial_medico": {
+      "alergias": ["Ninguna"],
+      "enfermedades_cronicas": ["Artritis"],
+      "medicamentos_actuales": ["Ibuprofeno"]
+    }
+  },
+  {
+    "id": 6,
+    "nombre": "Luisa Gómez",
+    "edad": 45,
+    "genero": "Femenino",
+    "telefono": "+34 321 654 987",
+    "email": "luisa.gomez@example.com",
+    "historial_medico": {
+      "alergias": ["Mariscos"],
+      "enfermedades_cronicas": ["Asma"],
+      "medicamentos_actuales": ["Salbutamol"]
+    }
+  },
+  {
+    "id": 7,
+    "nombre": "Sofía Torres",
+    "edad": 20,
+    "genero": "Femenino",
+    "telefono": "+34 123 789 456",
+    "email": "sofia.torres@example.com",
+    "historial_medico": {
+      "alergias": ["Lácteos"],
+      "enfermedades_cronicas": [],
+      "medicamentos_actuales": []
+    }
+  },
+  {
+    "id": 8,
+    "nombre": "Miguel Rojas",
+    "edad": 33,
+    "genero": "Masculino",
+    "telefono": "+34 789 123 456",
+    "email": "miguel.rojas@example.com",
+    "historial_medico": {
+      "alergias": ["Polvo"],
+      "enfermedades_cronicas": ["Migraña"],
+      "medicamentos_actuales": ["Paracetamol"]
+    }
+  },
+  {
+    "id": 9,
+    "nombre": "Laura Martínez",
+    "edad": 39,
+    "genero": "Femenino",
+    "telefono": "+34 456 123 789",
+    "email": "laura.martinez@example.com",
+    "historial_medico": {
+      "alergias": ["Latex"],
+      "enfermedades_cronicas": ["Depresión"],
+      "medicamentos_actuales": ["Sertralina"]
+    }
+  },
+  {
+    "id": 10,
+    "nombre": "Javier Ortega",
+    "edad": 28,
+    "genero": "Masculino",
+    "telefono": "+34 987 321 654",
+    "email": "javier.ortega@example.com",
+    "historial_medico": {
+      "alergias": ["Gluten"],
+      "enfermedades_cronicas": ["Enfermedad celíaca"],
+      "medicamentos_actuales": []
+    }
+  }
+]
